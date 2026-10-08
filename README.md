@@ -18,6 +18,6 @@ I build websites and create AI-powered automations that help make everyday work 
 
 ## Connect with Me
 
-- **Portfolio:** [Your website]
+- **Portfolio:** https://portfolio-six-ivory-27.vercel.app
 - **LinkedIn:** [Your LinkedIn profile]
 - **Email:** danielcompany176\@gmail.com
