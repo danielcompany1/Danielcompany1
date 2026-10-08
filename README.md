@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm  daniel 👋
 
-<!--
-**danielcompany1/Danielcompany1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Website Developer | AI Automation Engineer
 
-Here are some ideas to get you started:
+I build websites and create AI-powered automations that help make everyday work simpler and more efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌐 I develop websites and digital experiences.
+- 🤖 I build AI automations and workflows.
+- 🚀 I enjoy finding practical ways to use technology to solve problems.
+
+## Skills
+
+- Website Development
+- AI Automation
+- Workflow Automation
+
+## Connect with Me
+
+- **Portfolio:** [Your website]
+- **LinkedIn:** [Your LinkedIn profile]
+- **Email:** danielcompany176\@gmail.com
